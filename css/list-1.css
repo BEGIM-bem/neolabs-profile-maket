@@ -1,0 +1,173 @@
+.list-1{
+    position:absolute;
+    width: 1920px;
+    height: 700px;
+    left: 0px;
+    top: -7px;
+    background:  #EEEFF1;
+    
+}
+.button-1{
+    position: absolute;
+width: 225px;
+height: 65px;
+left: 975px;
+top: 482px;
+font-family: 'Roboto';
+
+
+    font-size: 16px;
+    letter-spacing: 0.1em;
+    color: white;
+    letter-spacing: 0.15em;
+    background: #34547A;
+
+}
+.first-screen-menu{
+    position: absolute;
+    width: 611px;
+    height: 16px;
+    left: 896px;
+    top: 72px;
+    letter-spacing: 0.1em;
+ 
+white-space:nowrap;
+
+}
+
+.avtor{
+    width: 100px;
+height: 16px;
+    font-size: 16px;
+    text-decoration: none; 
+   
+ 
+color: #000000;
+letter-spacing: 0.15em;
+margin-right: 42px;
+font-family: 'Roboto';
+}
+.avtor:hover{
+    color: blue;
+}
+.first{
+    width: 84px;
+    height: 12px;
+    margin-right: 42px;
+    font-size: 16px;
+    color: #000000;
+    letter-spacing: 0.15em;
+    text-decoration: none; 
+   
+    left: 896px;
+top: 72px;
+left: 896px;
+font-family: 'Roboto';
+    
+}
+.first:hover{
+    color: blue;
+}
+.contact{
+    display: inline;
+    width: 99px;
+height: 16px;
+letter-spacing: 0.15em;
+margin-right: 42px;
+text-decoration: none; 
+
+
+white-space:nowrap;
+font-size: 16px;
+color: #000000;
+font-family: 'Roboto';
+
+}
+.contact:hover{
+    color: blue;
+}
+.work{
+    width: 74px;
+height: 16px;
+letter-spacing: 0.15em;
+margin-right: 42px;
+font-size: 16px;
+text-decoration: none; 
+color: #000000;
+font-family: 'Roboto';
+
+}
+.work:hover{
+    color: blue;
+}
+.prosess{
+    width: 86px;
+    height: 16px;
+    margin-right: 42px;
+    text-decoration: none; 
+   
+
+    font-size: 16px;
+    color: black;
+    letter-spacing: 0.15em;
+    font-family: 'Roboto';
+
+}
+.prosess:hover{
+    color: blue;
+}
+
+.logotip{
+    position: absolute;
+    width: 96px;
+    height: 60px;
+    left: 402px;
+    top: 50px;
+    font-size: 48px;
+   
+  
+
+text-align: center;
+
+color: #34547A;
+}
+.tema{
+    position: absolute;
+    width: 541px;
+    height: 45px;
+    left: 974px;
+    top: 250px;
+    font-family: 'Roboto';
+    
+
+font-size: 48px;
+
+color: #000000;
+    
+
+}
+.texst {
+    position: absolute;
+    width: 540px;
+    height: 67px;
+    left: 975px;
+    top: 355px;
+    font-size: 16px;
+  
+    line-height: 26px;
+    font-family: 'Roboto';
+    color: #727272;
+
+}
+
+.loptop{
+
+    position: absolute;
+width: 357px;
+height: 233.7px;
+left: 487px;
+top: 271px;
+
+  
+
+}

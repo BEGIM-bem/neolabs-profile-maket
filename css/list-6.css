@@ -1,0 +1,157 @@
+#contact-list-6{
+    position: absolute;
+width: 1920px;
+height: 762px;
+left: 0px;
+top: 4246px;
+
+background: #EEEFF1;
+}
+.form-title{
+    position: absolute;
+width: 540px;
+height: 147px;
+left: 690px;
+top: 100px;
+
+
+}
+.finish-title{
+    position: absolute;
+    font-family: 'Roboto';
+width: 406px;
+height: 30px;
+left: 30px;
+top: 0px;
+
+font-size: 32px;
+text-align: center;
+
+color: #000000;
+}
+.finish-texst{
+    position: absolute;
+width: 540px;
+height: 67px;
+top:80px;
+font-family: 'Roboto';
+
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+
+color: #727272;
+}
+.name{
+    position: absolute;
+width: 255px;
+height: 50px;
+left: 690px;
+top: 312px;
+border: 0px solid;
+font-family: 'Roboto';
+
+padding-left: 20px;
+font-size: 14px;
+}
+.email{
+    position: absolute;
+width: 255px;
+height: 50px;
+left: 975px;
+top: 312px;
+border: 0px solid;
+font-size: 14px;
+padding-left: 20px;
+font-family: 'Roboto';
+
+}
+
+.message{
+    position: absolute;
+width: 540px;
+height: 175px;
+left: 690px;
+top: 382px;
+font-size: 14px;
+font-family: 'Roboto';
+
+border: 0px solid;
+padding-left: 20px;
+padding-bottom: 115px;
+
+
+}
+.send{
+    position: absolute;
+width: 190px;
+height: 55px;
+left: 864px;
+top: 607px;
+border: 0px solid;
+background: #34547A;
+font-size: 14px;
+color: #FFFFFF;
+font-family: 'Roboto';
+letter-spacing: 0.15em;
+
+}
+.forma{
+    
+position: absolute;
+width: 1920px;
+height: 151px;
+left: 0px;
+top:762px;
+
+background: #34547A;
+}
+
+.avtor-maketa{
+    position: absolute;
+width: 130px;
+height: 19px;
+left: 406px;
+top: 50px;
+font-family: 'Roboto';
+color: white;
+font-size: 21px;
+line-height: 25px;
+white-space:nowrap;
+
+}
+.info{
+    position: absolute;
+width: 193px;
+height: 12px;
+left: 406px;
+top: 89px;
+font-size: 13px;
+line-height: 21px;
+color: white;
+font-family: 'Roboto';
+}
+
+.photo1-vk{
+    position: absolute;
+width: 43.75px;
+height: 40px;
+left: 1356px;
+top: 50px;
+}
+
+.photo2-vk{
+    position: absolute;
+    width: 43.75px;
+    height: 40px;
+    left: 1421.62px;
+    top: 50px;
+}
+.photo3-vk{
+    position: absolute;
+width: 43.75px;
+height: 40px;
+left: 1487.25px;
+top: 50px;
+
+}

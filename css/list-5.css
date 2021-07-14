@@ -1,0 +1,103 @@
+#prosess-all-image{
+    
+position: absolute;
+width: 1920px;
+height: 960px;
+left: 0px;
+top: 2994px;
+
+
+}
+
+.photo-1{
+    position: absolute;
+width: 480px;
+height: 480px;
+left: 0px;
+
+
+}
+.photo-2{
+    position: absolute;
+width: 480px;
+height: 480px;
+left: 480px;
+
+}
+.photo-2-1{
+    position: absolute;
+width: 100px;
+height: 100px;
+left: 670px;
+top:190px;
+}
+.photo-3{
+    position: absolute;
+width: 480px;
+height: 480px;
+left: 960px;
+}
+.photo-4{
+    position: absolute;
+width: 480px;
+height: 480px;
+left: 1440px;
+}
+.photo-5{
+    position: absolute;
+width: 480px;
+height: 480px;
+left: 0px;
+top:480px;
+}
+.photo-6{
+    position: absolute;
+width: 480px;
+height: 480px;
+left: 479px;
+top:480px;
+}
+.photo-7{
+    position: absolute;
+width: 480px;
+height: 480px;
+left: 959px;
+top:480px;
+}
+.photo-8{
+    position: absolute;
+width: 480px;
+height: 480px;
+left: 1440px;
+top:480px;
+}
+
+.Microsoft-1{
+    position: absolute;
+width: 255px;
+height: 120px;
+left: 405px;
+top: 4026px;
+}
+
+.Microsoft-2{
+    position: absolute;
+width: 255px;
+height: 120px;
+left: 690px;
+top: 4026px
+}
+.Microsoft-3{
+    position: absolute;
+width: 255px;
+height: 120px;
+left: 975px;
+top: 4026px;
+}
+.Microsoft-4{
+    position: absolute;
+width: 255px;
+height: 120px;
+left: 1260px;
+top: 4026px;
+}

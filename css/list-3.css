@@ -1,0 +1,75 @@
+.list-3{
+    position: absolute;
+width: 1131px;
+height: 450px;
+left: 405px;
+top: 1411px;
+
+
+}
+.skills{
+    position: absolute;
+  
+    width: 445px;
+    height: 257px;
+    top: 119px;
+
+}
+h2{
+    position: absolute;
+    font-size: 32px;
+    top:-30px;
+    font-family: 'Roboto';
+line-height: 37px;
+color: #000000;
+width: 403px;
+height: 30px;
+}
+
+p{
+    position: absolute;
+    width: 128px;
+    font-family: 'Roboto';
+height: 15px;
+top:50px;
+font-size: 16px;
+line-height: 26px;
+color: #727272;
+
+}
+.one-line{
+    position: absolute;
+    border: 0px solid;
+    
+   top:86px;
+width: 350px;
+height: 4px;
+background: #34547A;
+   
+}
+.two-line{
+    position: absolute;
+    border: 0px solid;
+width: 445px;
+height: 4px;
+background: #C4C4C4;
+top:86px;
+}
+.all-line2{
+   position:absolute;
+   top:69px;
+    
+}
+.all-line3{
+    position:absolute;
+    top:138px;
+     
+ }
+ .photo-people{
+    position: absolute;
+    width: 555px;
+    height: 450px;
+  
+    left: 586px;
+    background: #C4C4C4;
+ }

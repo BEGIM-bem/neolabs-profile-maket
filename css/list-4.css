@@ -1,0 +1,49 @@
+#list-4-work{
+    position: absolute;
+width: 1920px;
+height: 1004px;
+left: 0px;
+top: 1962px;
+
+
+background: #EEEFF1;
+}
+.zagalovok{
+    position: absolute;
+width: 403px;
+left: 758px;
+top: 100px;
+font-family: 'Roboto';
+height: 30px;
+text-align: center;
+
+color: #000000;
+font-size: 32px;
+}
+.texst-list4{
+    position: absolute;
+width: 540px;
+height: 67px;
+left: 690px;
+top:180px;
+font-family: 'Roboto';
+
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+
+}
+.photo-list-4{
+    position: absolute;
+width: 1110px;
+height: 600px;
+left: 405px;
+top:304px;
+}
+.photo-pleer{
+    position: absolute;
+width: 100px;
+height: 100px;
+left: 910px;
+top:554px;
+}
